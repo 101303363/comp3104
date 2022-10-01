@@ -1,7 +1,7 @@
 `
 language: node_js
 node_js:
-  - "stable"
+  - "16.17.0"
 deploy:
   provider: pages
   skip_cleanup: true
@@ -16,4 +16,3 @@ rvm:
  - jruby
 
 
-// try
